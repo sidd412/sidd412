@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React Native.**
 
-- 👨‍💻 All of my projects are available at [portfolio.link](portfolio.link)
+- 👨‍💻 All of my projects are available at [https://github.com/sidd412?tab=repositories](portfolio.link)
 
-- 📝 I regularly write articles on [blog.link](blog.link)
+- 📝 To know more about me follow my website [https://sidd412.github.io/sid-sat-portfolio/](blog.link)
 
 - 💬 Ask me about **React, NodeJs , express and mongodb.**
 
