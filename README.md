@@ -37,7 +37,7 @@
 <p><a href="https://www.buymeacoffee.com/siddhartha verma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="siddhartha verma" /></a><a href="https://ko-fi.com/siddhartha verma"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="siddhartha verma" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=sidd412&show_icons=true&locale=en" alt="sidd412" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=sidd412&show_icons=true&locale=en" alt="sidd412" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sidd412&" alt="sidd412" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidd412" alt="sidd412" /></a> </p>
