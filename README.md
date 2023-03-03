@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://sidd412.github.io/sid-sat-portfolio/)
 <h1 align="center">Hi 👋, I'm SIDDAHRTHA VERMA</h1>
 <h3 align="center">A passionated Freontend developer from Lucknow,India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
