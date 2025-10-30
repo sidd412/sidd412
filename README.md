@@ -5,18 +5,19 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 
+- 💬 ask me bout android developemnet technologies **Ktolin/java, mvvm architecture, retrofit/ktor, RoomDB and caching, dagger(Hilt), jatepack compsoe, coroutines and stateflow, builds and product floavour, modular achitecture,  react native, js etc.**
 
-- 🌱 I’m currently learning **Native ios development**
+- 💬 I'm experinecd with **Media3(exoplayer) , ott apps for tv and mobile, webRTC and agora for live streaming, Exotel sdk for calling, firetv, andorid tv, juspay, stripe, razorpay, IAPs, dbeugging and analytics tools, firebase(push, cloud fun, DB, storage, etc.) and other third party integrations, tesing tools like jUnit and espresso etc, CI/CD with github and bitbucket, deployment, publishing and playconsole, amazoan app store and offline distribution and partner integrations**
+
+- 🌱 I’m currently learning **Native ios development and KMP**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/sidd412?tab=repositories]
 
 - 📝 To know more about me follow my website [https://sidd412.github.io/sid-sat-portfolio/](blog.link)
 
-- 💬 Ask me about **Kotlin, java, mvvm architecture, Hilt, Room DB , retrofit, ktor, react native, android ecosystem, SDLC,Firebase, play console, testing and deployment, publishing and disribution.**
+- 📫 How to reach me **siddharthaverma6213@gmail.com or dm @ +91 9129054029**
 
-- 📫 How to reach me **siddharthaverma6213@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tug6EnWmqQ8zHzB1BsVSuF6GaOPI4Gs7/view?usp=sharing]
+- 📄 Know about my work experiences [https://drive.google.com/file/d/1Tug6EnWmqQ8zHzB1BsVSuF6GaOPI4Gs7/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
