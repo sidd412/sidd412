@@ -1,7 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3CjuEunEpPuvrsKEV0f7R_OSPonuZnDUi97Hrz68T9xKpsUHRoFaivipPxNQ6QT3BIHVxtSH85xurEqxSnC1S7rQklKL8vKj40E2xgFWE9ylhjZDHbWoie3Evgl_WjnG2nQ1UxFVs9lg3IAMIv_CHCsuesUuCW_BMddUXU4JErFXLn9Twcy2tKKfHA/s1600/Android-JetpackCompose1.2-Header.png)](https://sidd412.github.io/sid-sat-portfolio/)
 
 <h1 align="center">Hi 👋, I'm SIDDAHRTHA VERMA</h1>
-<h3 align="center">A passionated Freontend developer from Lucknow,India.</h3>
+<h3 align="center">An android developer whon can built, test , amnage and deploy the apps for both native and hybrid technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd412&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/sidverma9129054" target="blank"><img src="https://img.shields.io/twitter/follow/sidverma9129054?logo=twitter&style=for-the-badge" alt="sidverma9129054" /></a> </p>
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Notive ios development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sidd412?tab=repositories](portfolio.link)
+- 👨‍💻 All of my personal projects are available at [https://github.com/sidd412?tab=repositories]
 
 - 📝 To know more about me follow my website [https://sidd412.github.io/sid-sat-portfolio/](blog.link)
 
