@@ -4,8 +4,6 @@
 <h3 align="center">An android developer who can built, test , manage and deploy the apps for both native and hybrid technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd412&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
 
 
 - 🌱 I’m currently learning **Notive ios development**
