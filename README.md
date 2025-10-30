@@ -6,17 +6,17 @@
 
 
 
-- 🌱 I’m currently learning **Notive ios development**
+- 🌱 I’m currently learning **Native ios development**
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/sidd412?tab=repositories]
 
 - 📝 To know more about me follow my website [https://sidd412.github.io/sid-sat-portfolio/](blog.link)
 
-- 💬 Ask me about **React, NodeJs , express and mongodb.**
+- 💬 Ask me about **Kotlin, java, mvvm architecture, Hilt, Room DB , retrofit, ktor, react native, android ecosystem, SDLC,Firebase, play console, testing and deployment, publishing and disribution.**
 
 - 📫 How to reach me **siddharthaverma6213@gmail.com**
 
-- 📄 Know about my experiences [Resume.link](Resume.link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Tug6EnWmqQ8zHzB1BsVSuF6GaOPI4Gs7/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
