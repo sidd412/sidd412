@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **siddharthaverma6213@gmail.com or dm @ +91 9129054029**
 
-- 📄 Know about my work experiences [https://drive.google.com/file/d/1Tug6EnWmqQ8zHzB1BsVSuF6GaOPI4Gs7/view?usp=sharing]
+- 📄 Know about my work experiences [https://drive.google.com/file/d/17huQevbdQmRLdQ8RhUAe9JJ2lXQNyb50/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
