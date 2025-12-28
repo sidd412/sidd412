@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/sidd412?tab=repositories]
 
-- 📝 To know more about me follow my website [https://www.linkedin.com/in/sid-sat/](blog.link)
+- 📝 To know more about me follow my website [https://www.linkedin.com/in/sid-sat/]
 
 - 📫 How to reach me **siddharthaverma6213@gmail.com or dm @ +91 9129054029**
 
